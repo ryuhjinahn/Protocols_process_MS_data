@@ -1,2 +1,5 @@
-# R
-R codes for proteomic analyses
+# Protocols for processing MS data
+- immunopeptidomics
+- phosphoproteomics
+- PRM
+- SureQuant
